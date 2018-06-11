@@ -1,8 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!DOCTYPE data [
-<!ELEMENT data (#ANY)>
-<!ENTITY xxe SYSTEM "file:///etc/passwd">
-]>
 
 <Root>
 		<Series>
