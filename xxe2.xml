@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Root>
+		<Series>
+			<modelYear>2018</modelYear>
+			<displayYear>2014</displayYear>
+			<modelCode>4runner</modelCode>
+			<modelName>4Runner</modelName>
+			<displayName>4Runner</displayName>
+			<seriesId>86</seriesId>
+			<chromeId>8487</chromeId>
+			<modelCategory>crossovers-suvs, suvs</modelCategory>
+			<minMPG>17</minMPG>
+			<maxMPG>22</maxMPG>
+			<cityMPG>17</cityMPG>
+			<hwyMPG>22</hwyMPG>
+			<MPGE></MPGE>
+			<seating>5, 7</seating>
+			<disclaimerCodeMPG>epa_2014</disclaimerCodeMPG>
+			<disclaimerCodeMSRP>msrp</disclaimerCodeMSRP>
+			<disclaimerCodeMPGE></disclaimerCodeMPGE>
+			<HorsePower></HorsePower>
+			<TowingCapacity></TowingCapacity>
+			<Engine>V4, V6</Engine>
+			<DriveTrain>FWD, 4WD</DriveTrain>
+			<BaseMsrp>32820</BaseMsrp>
+			<currentYear>false</currentYear>
+			<CompareLanding>false</CompareLanding>
+			<baseTrimId>8642</baseTrimId>
+			<LinkedSeries></LinkedSeries>
+			<LinkedGrade></LinkedGrade>
+			<ShowBuild>No</ShowBuild>
+			<BuildURL></BuildURL>
+			<HeadUnit></HeadUnit>
+			<asShownAs>35275</asShownAs>
+			<highrez></highrez>
+			<inAppDisplay>
+				<compare>false</compare>
+				<configurator>false</configurator>
+				<searchinventory>false</searchinventory>
+				<efc>false</efc>
+				<RAQ>false</RAQ>
+				<searchinventoryLegacy>false</searchinventoryLegacy>
+				<allVehicles>false</allVehicles>
+				<localSpecials>false</localSpecials>
+			</inAppDisplay>
+			<inRegionDisplay>
+				<set>true</set>
+			</inRegionDisplay>
+		</Series>
+	</Root>
+	
